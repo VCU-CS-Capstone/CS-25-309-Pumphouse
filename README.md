@@ -19,8 +19,8 @@ a better understanding of the problems you encountered during the development of
 ## Project Team
 - *Mac Wood*  - *Friends of the Pump House* - Mentor
 - *Mac Wood* - *Friends of the Pump House* - Technical Advisor
-- *John Leonard* - *Computer Science Department* - Faculty Advisor
-- *Cesar Colato* - *Computer Science* - Student Team Member
-- *Mohammad Garada* - *Computer Science* - Student Team Member
-- *Zemas Zeamnauel* - *Computer Science* - Student Team Member
-- *Nicholas Casey* - *Computer Science* - Student Team Member
+- *John Leonard* - *CS* - Faculty Advisor
+- *Cesar Colato* - *CS* - Student Team Member
+- *Mohammad Garada* - *CS* - Student Team Member
+- *Zemas Zeamnauel* - *CS* - Student Team Member
+- *Nicholas Casey* - *CS* - Student Team Member
