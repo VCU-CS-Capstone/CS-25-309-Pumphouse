@@ -22,5 +22,5 @@ a better understanding of the problems you encountered during the development of
 - *John Leonard* - *Computer Science Department* - Faculty Advisor
 - *Cesar Colato* - *Computer Science* - Student Team Member
 - *Mohammad Garada* - *Computer Science* - Student Team Member
-- *Zemas Zeamnauel - *Computer Science* - Student Team Member
+- *Zemas Zeamnauel* - *Computer Science* - Student Team Member
 - *Nicholas Casey* - *Computer Science* - Student Team Member
