@@ -1,6 +1,6 @@
 # *CS 25-309 3-D Modeling of Byrd Park Pump House*
 ## *Friends of the Pump House*
-## *This capstone project explores advanced digital representations of the Byrd Park Pumphouse. Building on last year’s VR model of the main pumphouse room, developed with Unity for the Meta Quest 3, this year’s focus may include expanding the model to cover the entire pumphouse, integrating augmented reality features, or enhancing the existing VR environment with improved sound and lighting.*
+## *This capstone project explores advanced digital representations of the Byrd Park Pumphouse. Building on last year’s VR model of the main pumphouse room, developed with Unity for the Meta Quest 3, this year’s focus includes expanding the model to cover the entire pumphouse, integrating augmented reality features, or enhancing the existing VR environment with improved sound and lighting. Specifically, we will be working on creating assets for the Hydroelectric Pump Geneterator and the Boiler Room*
 The directory structure in this GitHub is to allow the project to have all its resources self-contained.
 Open Source software should not just be a repository of code.  There are a number of directories to help you and others who will 
 follow in your footsteps.  It'll also allow the Linux Foundation OMP Mentorship program to keep track of your project and get
