@@ -11,7 +11,7 @@ Status Report Fall Week XX.md is a template for to copy-paste into new Status re
 
 | Document | Tasks | Accomplishments | Issues |
 |---|---|---|---|
-| Week 1 Status Report | We've accomplished a lot | We'll accomplish even more | No problems to report! |
+| Week 1 Status Report | Meet with sponsor and faculty advisor, create github repo, create team contract | Met with sponsor and faculty advisor to discuss project details, learned what we need to do and deadlines. Learned about Unity and Blender, researched early 20th century machinery for Pump House restoration. | Team members have little to no experience in Blender and Unity, must set time aside to learn the basics of the two. |
 | Week 2 Status Report | | | |
 | Week 3 Status Report | | | |
 | Week 4 Status Report | | | |
