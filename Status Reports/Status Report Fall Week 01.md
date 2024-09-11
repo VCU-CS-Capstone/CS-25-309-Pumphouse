@@ -2,10 +2,10 @@
 
 **Students' Names: Cesar Colato, Zemas Zeamanuel, Nicholas Casey, Mohammad Garada**
 
-**Mentor: Mac Wood**
+**Mentor:**
 - Mac Wood - Friends of the Pump House - Sponsor
 
-**Faculty Advisor: John Leonard**
+**Faculty Advisor:**
 - John Leonard- CS - Faculty Advisor
 
 ## 1) Accomplishments this week ##
