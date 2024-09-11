@@ -1,6 +1,10 @@
 # *CS 25-309 3-D Modeling of Byrd Park Pump House*
 
-**Students' Names: Cesar Colato, Zemas Zeamanuel, Nicholas Casey, Mohammad Garada**
+**Students' Names:**
+-Cesar Colato 
+-Zemas Zeamanuel
+-Nicholas Casey
+-Mohammad Garada
 
 **Mentor:**
 - Mac Wood - Friends of the Pump House - Sponsor
