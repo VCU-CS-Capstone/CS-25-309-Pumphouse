@@ -10,7 +10,8 @@
    - GitHub repo set up done by Cesar 
    - Discord created by Cesar, all team members joined
    - Team met with sponsor (Mac Wood) and faculty advisor (John Leonard) to discuss project details and planning
-   - Team contract completed by team, uploaded to Canvas, EduSourced, and GitHub by Nicholas
+   - Team contract completed by team
+   - Team contract uploaded to Canvas, EduSourced, and GitHub by Nicholas
 
 ## 2) Milestones to be completed next week ##
    - research early 20th century machinery (pumps)
