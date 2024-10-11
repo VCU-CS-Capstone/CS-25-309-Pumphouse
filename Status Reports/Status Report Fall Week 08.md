@@ -13,12 +13,11 @@
 - John Leonard - CS - Faculty Advisor
 
 ## 1) Accomplishments this week ##
-   - scheduled a time to meet at the Pumphouse
+   - Visited the Pumphouse
+
 
 ## 2) Milestones to be completed next week ##
-   - Visit the pumphouse
-
-
+   - Provide sponsor with rough blockings of future assets
 
 ## 3) Issues, problems or concerns ##
    - no concurrent issues

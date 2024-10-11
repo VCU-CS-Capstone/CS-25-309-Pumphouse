@@ -17,9 +17,9 @@ Status Report Fall Week XX.md is a template for to copy-paste into new Status re
 | Week 4 Status Report | Finish researching on Pump models| Adequate amount of resources have been acquired to make accurate models of pumps| Lack of knowledge on the boiler room contents|
 | Week 5 Status Report | Make progress on learning Unity and Blender, Schedule a time to visit the Pumphouse| Progress made on learning the tools of Unity| Schedule conflicts making it difficult to visit the Pumphouse|
 | Week 6 Status Report | Meet and touch base with sponsor, start working on Project Proposal| Progress made on Project Proposal| Schedule conflicts between Team Members|
-| Week 7 Status Report |Finish the Project Proposal, schedule a time to visit the Pumphouse | | |
-| Week 8 Status Report | | | |
-| Week 9 Status Report | | | |
+| Week 7 Status Report |Finish the Project Proposal, schedule a time to visit the Pumphouse | Scheduled a time to visit the pumphouse| no concurrent issues|
+| Week 8 Status Report | Visit the pumphouse, spend time learning normals via Blender| Visited the pumphouse, students made progress on learning normals| no concurrent issues|
+| Week 9 Status Report | provide sponsor with rough blocking samples for future assets| | |
 | Week 10 Status Report | | | |
 | Week 11 Status Report | | | |
 | Week 12 Status Report | | | |
