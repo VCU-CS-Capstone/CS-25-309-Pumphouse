@@ -19,8 +19,8 @@ Status Report Fall Week XX.md is a template for to copy-paste into new Status re
 | Week 6 Status Report | Meet and touch base with sponsor, start working on Project Proposal| Progress made on Project Proposal| Schedule conflicts between Team Members|
 | Week 7 Status Report |Finish the Project Proposal, schedule a time to visit the Pumphouse | Scheduled a time to visit the pumphouse| no concurrent issues|
 | Week 8 Status Report | Visit the pumphouse, spend time learning normals via Blender| Visited the pumphouse, students made progress on learning normals| no concurrent issues|
-| Week 9 Status Report | provide sponsor with rough blocking samples for future assets| | |
-| Week 10 Status Report | | | |
+| Week 9 Status Report | provide sponsor with rough blocking samples for future assets| Rough draft of boiler asset was created| no issues have appeared|
+| Week 10 Status Report | Provide art students with reference board for required asset creation| | |
 | Week 11 Status Report | | | |
 | Week 12 Status Report | | | |
 | Week 13 Status Report | | | |
